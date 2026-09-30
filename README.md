@@ -1,4 +1,4 @@
-# Cut-ViT - ECCV 2026
+# Cut-ViT: Task-Specific Model Pruning via Gram Anchoring Subspace Consistency - ECCV 2026
 
 
 
